@@ -1,2 +1,3 @@
 # Study Planner
-C# WPF app
+C# WPF app. 
+Completed November 2022
