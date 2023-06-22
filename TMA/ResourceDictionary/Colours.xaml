@@ -1,0 +1,18 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+    <SolidColorBrush x:Key="BackgroundColour" Color="#102F3F"/>
+    <SolidColorBrush x:Key="MenuColour" Color="#153D51"/>
+    <SolidColorBrush x:Key="FontColour" Color="#ffffff"/>
+    <SolidColorBrush x:Key="Purple" Color="#481845"/>
+    <SolidColorBrush x:Key="unused1" Color="#1E237C"/>
+    <SolidColorBrush x:Key="unused24" Color="#FF1E507C"/>
+    <SolidColorBrush x:Key="unused2" Color="#2055B7"/>
+    <SolidColorBrush x:Key="unused23" Color="#FF205596"/>
+    <SolidColorBrush x:Key="unused3" Color="#14B1EA"/>
+    <SolidColorBrush x:Key="Homeitem" Color="#471818"/>
+    <SolidColorBrush x:Key="HomeItemLite" Color="#6C1E1E"/>
+
+</ResourceDictionary> 
+    

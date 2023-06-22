@@ -1,0 +1,52 @@
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\bin\Debug\TMACustomLib.dll
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\bin\Debug\TMACustomLib.pdb
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib.csproj.AssemblyReference.cache
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib_MarkupCompile.cache
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib_MarkupCompile.lref
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\Themes\Generic.baml
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib.g.resources
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib.Properties.Resources.resources
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib.csproj.GenerateResource.cache
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib.csproj.CoreCompileInputs.cache
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib.dll
+C:\Users\Varsity\source\repos\Broke\TMACustomLib\obj\Debug\TMACustomLib.pdb
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\bin\Debug\TMACustomLib.dll
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\bin\Debug\TMACustomLib.pdb
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib.csproj.AssemblyReference.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib_MarkupCompile.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib_MarkupCompile.lref
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\Themes\Generic.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib.g.resources
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib.Properties.Resources.resources
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib.csproj.GenerateResource.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib.csproj.CoreCompileInputs.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib.dll
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMACustomLib\obj\Debug\TMACustomLib.pdb
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\bin\Debug\TMACustomLib.dll
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\bin\Debug\TMACustomLib.pdb
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.csproj.AssemblyReference.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib_MarkupCompile.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib_MarkupCompile.lref
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\Themes\Generic.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.g.resources
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.Properties.Resources.resources
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.csproj.GenerateResource.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.csproj.CoreCompileInputs.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.dll
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.pdb
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\bin\Debug\TMACustomLib.dll
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\bin\Debug\TMACustomLib.pdb
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.csproj.AssemblyReference.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib_MarkupCompile.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib_MarkupCompile.lref
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\Themes\Generic.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.g.resources
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.Properties.Resources.resources
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.csproj.GenerateResource.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.csproj.CoreCompileInputs.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.dll
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMACustomLib\obj\Debug\TMACustomLib.pdb

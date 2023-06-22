@@ -1,0 +1,168 @@
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.csproj.AssemblyReference.cache
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\ResourceDictionary\ButtonTheme.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\ResourceDictionary\CloseBtn.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\ResourceDictionary\Colours.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\ResourceDictionary\MenuBtn.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\ResourceDictionary\MinimizeBtn.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\ResourceDictionary\TextBoxTheme.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\ResourceDictionary\UsernameTheme.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MainWindow.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\Pages\AddModulePage.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\Pages\HomePage.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\Pages\ReportPage.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\Pages\TimeStudiedPage.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\View\MainWin.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\App.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA_MarkupCompile.cache
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA_MarkupCompile.lref
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\App.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MainWindow.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\Pages\AddModulePage.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\Pages\HomePage.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\Pages\ReportPage.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\Pages\TimeStudiedPage.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\MVVM\View\MainWin.baml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.g.resources
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.pdb
+C:\Users\Varsity\source\repos\Broke\TMA\bin\Debug\TMA.exe.config
+C:\Users\Varsity\source\repos\Broke\TMA\bin\Debug\TMA.exe
+C:\Users\Varsity\source\repos\Broke\TMA\bin\Debug\TMA.pdb
+C:\Users\Varsity\source\repos\Broke\TMA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Varsity\source\repos\Broke\TMA\bin\Debug\TMACustomLib.dll
+C:\Users\Varsity\source\repos\Broke\TMA\bin\Debug\TMACustomLib.pdb
+C:\Users\Varsity\source\repos\Broke\TMA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.Properties.Resources.resources
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.csproj.GenerateResource.cache
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.csproj.CoreCompileInputs.cache
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.csproj.CopyComplete
+C:\Users\Varsity\source\repos\Broke\TMA\obj\Debug\TMA.exe
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\bin\Debug\TMA.exe.config
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\bin\Debug\TMA.exe
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\bin\Debug\TMA.pdb
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\bin\Debug\TMACustomLib.dll
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\bin\Debug\TMACustomLib.pdb
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.csproj.AssemblyReference.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\ResourceDictionary\ButtonTheme.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\ResourceDictionary\CloseBtn.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\ResourceDictionary\Colours.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\ResourceDictionary\MenuBtn.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\ResourceDictionary\MinimizeBtn.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\ResourceDictionary\TextBoxTheme.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\ResourceDictionary\UsernameTheme.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MainWindow.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\Pages\AddModulePage.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\Pages\HomePage.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\Pages\ReportPage.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\Pages\TimeStudiedPage.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\View\MainWin.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\App.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA_MarkupCompile.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA_MarkupCompile.lref
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\App.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MainWindow.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\Pages\AddModulePage.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\Pages\HomePage.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\Pages\ReportPage.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\Pages\TimeStudiedPage.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\MVVM\View\MainWin.baml
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.g.resources
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.Properties.Resources.resources
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.csproj.GenerateResource.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.csproj.CoreCompileInputs.cache
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.csproj.CopyComplete
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.exe
+C:\Users\Varsity\source\repos\Broke\TMA+CustLib\TMA\obj\Debug\TMA.pdb
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMA.exe.config
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMA.exe
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMA.pdb
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMACustomLib.dll
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMACustomLib.pdb
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.AssemblyReference.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\ButtonTheme.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\CloseBtn.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\Colours.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\MenuBtn.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\MinimizeBtn.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\TextBoxTheme.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\UsernameTheme.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MainWindow.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\AddModulePage.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\HomePage.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\ReportPage.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\TimeStudiedPage.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\View\MainWin.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\App.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA_MarkupCompile.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA_MarkupCompile.lref
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\App.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MainWindow.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\AddModulePage.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\HomePage.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\ReportPage.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\TimeStudiedPage.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\View\MainWin.baml
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.g.resources
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.Properties.Resources.resources
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.GenerateResource.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.CoreCompileInputs.cache
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.CopyComplete
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.exe
+C:\Users\Varsity\OneDrive - ADvTECH Ltd\Desktop\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.pdb
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMA.exe.config
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMA.exe
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMA.pdb
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMACustomLib.dll
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\TMACustomLib.pdb
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.AssemblyReference.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\ButtonTheme.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\CloseBtn.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\Colours.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\MenuBtn.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\MinimizeBtn.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\TextBoxTheme.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\ResourceDictionary\UsernameTheme.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MainWindow.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\AddModulePage.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\HomePage.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\ReportPage.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\TimeStudiedPage.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\View\MainWin.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\App.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA_MarkupCompile.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA_MarkupCompile.lref
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\App.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MainWindow.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\AddModulePage.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\HomePage.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\ReportPage.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\Pages\TimeStudiedPage.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\View\LoginView.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\MVVM\View\MainWin.baml
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.g.resources
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.Properties.Resources.resources
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.GenerateResource.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.CoreCompileInputs.cache
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.csproj.CopyComplete
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.exe
+C:\Users\Varsity\Downloads\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2 (1)\ST10092020 Pierce Robinson PROG6212 Part 2 GROUP 2\TMA\obj\Debug\TMA.pdb

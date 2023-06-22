@@ -1,0 +1,21 @@
+﻿<Application x:Class="TMA.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TMA"
+             xmlns:viewModel="clr-namespace:TMA.MVVM.ViewModel"
+             xmlns:view="clr-namespace:TMA.MVVM.View"
+             StartupUri="MVVM/View/LoginView.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/ResourceDictionary/ButtonTheme.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionary/UsernameTheme.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionary/CloseBtn.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionary/MinimizeBtn.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionary/MenuBtn.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionary/Colours.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionary/TextBoxTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
